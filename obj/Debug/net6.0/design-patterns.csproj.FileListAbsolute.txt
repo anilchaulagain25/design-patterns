@@ -1,0 +1,15 @@
+/Users/anilchaulagain/Documents/design-patterns/bin/Debug/net6.0/design-patterns
+/Users/anilchaulagain/Documents/design-patterns/bin/Debug/net6.0/design-patterns.deps.json
+/Users/anilchaulagain/Documents/design-patterns/bin/Debug/net6.0/design-patterns.runtimeconfig.json
+/Users/anilchaulagain/Documents/design-patterns/bin/Debug/net6.0/design-patterns.dll
+/Users/anilchaulagain/Documents/design-patterns/bin/Debug/net6.0/ref/design-patterns.dll
+/Users/anilchaulagain/Documents/design-patterns/bin/Debug/net6.0/design-patterns.pdb
+/Users/anilchaulagain/Documents/design-patterns/obj/Debug/net6.0/design-patterns.csproj.AssemblyReference.cache
+/Users/anilchaulagain/Documents/design-patterns/obj/Debug/net6.0/design-patterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilchaulagain/Documents/design-patterns/obj/Debug/net6.0/design-patterns.AssemblyInfoInputs.cache
+/Users/anilchaulagain/Documents/design-patterns/obj/Debug/net6.0/design-patterns.AssemblyInfo.cs
+/Users/anilchaulagain/Documents/design-patterns/obj/Debug/net6.0/design-patterns.csproj.CoreCompileInputs.cache
+/Users/anilchaulagain/Documents/design-patterns/obj/Debug/net6.0/design-patterns.dll
+/Users/anilchaulagain/Documents/design-patterns/obj/Debug/net6.0/ref/design-patterns.dll
+/Users/anilchaulagain/Documents/design-patterns/obj/Debug/net6.0/design-patterns.pdb
+/Users/anilchaulagain/Documents/design-patterns/obj/Debug/net6.0/design-patterns.genruntimeconfig.cache
