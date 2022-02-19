@@ -3,7 +3,7 @@ namespace design_patterns.Structural.Facade
     public class Client
     {
 
-        public static void Main(string[] args)
+        public static void Main()
         {
             //Client calls to sinle API instead of multiple API's of the library
             BankingAPI bankingAPI = new();

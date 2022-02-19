@@ -2,7 +2,7 @@ namespace design_patterns.Behavioural.Strategy
 {
     public class Client
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
             Order order = new Order()
             {
